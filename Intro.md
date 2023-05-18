@@ -1,7 +1,7 @@
 # Introduction
 
 Bonjour O-clock et merci de me donner l'occasion de collaborer avec vous.
-Pour en savoir plus sur moi, je m'appelle Thomas, j'ai 26 ans et je suis né avec un laptop entre les mains.
+Pour en savoir plus sur moi, je m'appelle Thomas, j'ai 26 ans, papa d'une petite fille de 3ans et je suis né avec un laptop entre les mains.
 
 Depuis ma tendre enfance, j'ai plongé dans les abysses du développement, en effet, pouvoir exprimer ma créativité sans aucune limite à provoquer chez moi un sentiment formidable.
 Le développement est devenu une passion.

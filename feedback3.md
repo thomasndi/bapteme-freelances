@@ -1,6 +1,6 @@
-# [FEEDBACK] Apprenant 2
+# [FEEDBACK] Apprenant 3
 
-> Bonjour 'apprenant 2', voici un compte-rendu détaillé de ton projet.
+> Bonjour 'apprenant 3', voici un compte-rendu détaillé de ton projet.
 Je vais te donner autant de renseignements que possible afin que tu puisse améliorer et compléter ton projet
 
 
